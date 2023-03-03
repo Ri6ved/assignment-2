@@ -1,0 +1,56 @@
+.card {
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: Trebuchet MS;
+  }
+  
+  .title {
+    color: rgb(248, 0, 0);
+    font-size: 18px;
+    font-family: Trebuchet MS;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  h2{
+      font-family: Trebuchet MS;
+  }
+  body{
+  background-size: cover;
+  }
+  header{
+    background-color:;
+}
+.head-tag{
+    float:right;
+    margin-top: 20px;
+    margin-right: 35px;   
+}
+.bc{
+    color: aliceblue;
+    font-variant: initial;  
+    font-weight: 100;
+    font-style:normal;
+}
